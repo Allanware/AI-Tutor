@@ -1,6 +1,6 @@
 
 # Mr. Ranedeer Web Version coming soon!
-
+/config English, Ph.D, Active/Reflective/Intuitive, Socratic, Informative, Analogical/Causal
 ---
 November 19th: Mr. Ranedeer now has a discord!
 
